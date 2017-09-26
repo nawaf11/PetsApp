@@ -1,8 +1,8 @@
 Pets App
 ===================================
 
-![Screenshot (sh1.png)](shc1.png?raw=true "Screenshot")
-![Screenshot (sh2.png)](shc1.png?raw=true "Screenshot")
+![Screenshot (sh1.png)](sh1.png?raw=true "Screenshot")
+![Screenshot (sh2.png)](sh1.png?raw=true "Screenshot")
 
 Pets Database Manager with CRUD Operations in Android.
 
